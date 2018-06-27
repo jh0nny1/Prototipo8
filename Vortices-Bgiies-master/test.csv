@@ -1,0 +1,636 @@
+0,20:50:53.6205925,6/11/2017,UserID,-
+0,20:50:53.6356329,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,20:50:53.7897324,6/11/2017,Move ray vector,
+0,20:51:18.4006426,6/11/2017,Test1,
+0,20:51:22.0601424,6/11/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:22.1059621,6/11/2017,Move ray vector,g_imagen_031.jpg
+0,20:51:22.3632658,6/11/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:26.1738627,6/11/2017,Move ray vector,g_imagen_014.jpg
+0,21:00:15.4982191,6/11/2017,UserID,-
+0,21:00:15.5127633,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,21:00:15.6061140,6/11/2017,Move ray vector,
+0,21:01:55.5829734,6/11/2017,UserID,-
+0,21:01:55.5975107,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,21:01:55.6907642,6/11/2017,Move ray vector,
+0,21:01:57.7948635,6/11/2017,Move ray vector,g_imagen_043.jpg
+0,21:02:20.0080546,6/11/2017,Test1,
+0,21:02:21.2055136,6/11/2017,Move ray vector,g_imagen_049.jpg
+0,21:02:40.0886655,6/11/2017,Move ray vector,g_imagen_050.jpg
+0,21:02:40.1232566,6/11/2017,Move ray vector,g_imagen_043.jpg
+0,21:24:31.8080851,6/11/2017,UserID,-
+0,21:24:31.8291406,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,21:24:54.9963208,6/11/2017,Test1,
+0,21:37:07.0024802,6/11/2017,UserID,-
+0,21:37:07.0175198,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,21:37:07.1177023,6/11/2017,Move ray vector,
+0,21:37:08.8728696,6/11/2017,Move ray vector,g_imagen_001.jpg
+0,21:37:26.9396655,6/11/2017,Test1,
+0,21:37:28.8475816,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:37:28.9217763,6/11/2017,Move ray vector,g_imagen_026.jpg
+0,21:38:37.9627857,6/11/2017,UserID,-
+0,21:38:38.0023914,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,21:38:40.1596286,6/11/2017,Move ray vector,
+0,21:38:57.6514994,6/11/2017,Test1,
+0,21:38:59.1471478,6/11/2017,Move ray vector,g_imagen_001.jpg
+0,21:38:59.2784957,6/11/2017,Move ray vector,g_imagen_030.jpg
+0,21:38:59.3385797,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:38:59.3852767,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:38:59.8573846,6/11/2017,Move ray vector,g_imagen_023.jpg
+0,21:39:00.3259969,6/11/2017,Zooming In,g_imagen_023.jpg
+0,21:39:01.4572843,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:39:02.4712277,6/11/2017,Select Estructuras Comprometidas,g_imagen_023.jpg
+0,21:39:02.8493317,6/11/2017,Deselect Estructuras Comprometidas,g_imagen_023.jpg
+0,21:39:03.5493712,6/11/2017,Select Estructuras Comprometidas,g_imagen_023.jpg
+0,21:39:04.3497435,6/11/2017,Move ray vector,g_imagen_023.jpg
+0,21:39:05.1499446,6/11/2017,Zooming Out,g_imagen_023.jpg
+0,21:39:05.9928584,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:39:06.2590419,6/11/2017,Zooming In,g_imagen_035.jpg
+0,21:39:07.5609104,6/11/2017,Select Estructuras Comprometidas,g_imagen_035.jpg
+0,21:39:08.8519229,6/11/2017,Move ray vector,g_imagen_020.jpg
+0,21:39:08.8644566,6/11/2017,Move ray vector,g_imagen_030.jpg
+0,21:39:09.8995700,6/11/2017,Select Superficies Afectadas,g_imagen_035.jpg
+0,21:39:10.4924501,6/11/2017,Move ray vector,g_imagen_001.jpg
+0,21:39:10.5517439,6/11/2017,Move ray vector,g_imagen_043.jpg
+0,21:39:10.6005119,6/11/2017,Move ray vector,g_imagen_047.jpg
+0,21:39:11.2992479,6/11/2017,Select Maniobras de Mitigacion,g_imagen_035.jpg
+0,21:39:11.9304888,6/11/2017,Move ray vector,g_imagen_037.jpg
+0,21:39:12.0096576,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:39:12.0352247,6/11/2017,Move ray vector,g_imagen_024.jpg
+0,21:39:12.7874728,6/11/2017,Select Flora y Fauna,g_imagen_035.jpg
+0,21:39:13.2989352,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:39:13.3198286,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:39:13.7327708,6/11/2017,Zooming Out,g_imagen_035.jpg
+0,21:39:14.2767592,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:39:14.5400934,6/11/2017,Zooming In,g_imagen_011.jpg
+0,21:39:15.2584475,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:39:15.9785783,6/11/2017,Select Estructuras Comprometidas,g_imagen_011.jpg
+0,21:39:16.3118547,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:39:16.3344159,6/11/2017,Move ray vector,g_imagen_030.jpg
+0,21:39:17.2361542,6/11/2017,Select Superficies Afectadas,g_imagen_011.jpg
+0,21:39:17.5697599,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:39:17.9817754,6/11/2017,Zooming Out,g_imagen_011.jpg
+0,21:39:18.5292262,6/11/2017,Move ray vector,g_imagen_037.jpg
+0,21:39:18.9141701,6/11/2017,Zooming In,g_imagen_037.jpg
+0,21:39:19.5063552,6/11/2017,Move ray vector,g_imagen_026.jpg
+0,21:39:20.2782120,6/11/2017,Move ray vector,g_imagen_024.jpg
+0,21:39:21.0321945,6/11/2017,Select Flora y Fauna,g_imagen_037.jpg
+0,21:39:21.4892301,6/11/2017,Move ray vector,g_imagen_037.jpg
+0,21:39:21.9620911,6/11/2017,Move ray vector,g_imagen_001.jpg
+0,21:39:23.0445154,6/11/2017,Select Superficies Afectadas,g_imagen_037.jpg
+0,21:39:23.9611140,6/11/2017,Move ray vector,g_imagen_030.jpg
+0,21:39:24.0214412,6/11/2017,Move ray vector,g_imagen_020.jpg
+0,21:39:24.1777850,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:39:24.3918230,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:39:24.4294221,6/11/2017,Move ray vector,g_imagen_037.jpg
+0,21:39:24.8251107,6/11/2017,Zooming Out,g_imagen_037.jpg
+0,21:39:25.3584061,6/11/2017,Move ray vector,g_imagen_047.jpg
+0,21:39:25.5210210,6/11/2017,Move ray vector,g_imagen_056.jpg
+0,21:39:25.6772184,6/11/2017,Move ray vector,g_imagen_026.jpg
+0,21:39:26.4253675,6/11/2017,Move ray vector,g_imagen_056.jpg
+0,21:39:26.6704954,6/11/2017,Zooming In,g_imagen_056.jpg
+0,21:39:27.6255389,6/11/2017,Zooming Out,g_imagen_056.jpg
+0,21:39:28.0237017,6/11/2017,Move ray vector,g_imagen_047.jpg
+0,21:39:28.0658137,6/11/2017,Move ray vector,g_imagen_043.jpg
+0,21:39:28.6148086,6/11/2017,Zooming In,g_imagen_043.jpg
+0,21:39:29.2067736,6/11/2017,Move ray vector,g_imagen_001.jpg
+0,21:39:30.1389678,6/11/2017,Select Superficies Afectadas,g_imagen_043.jpg
+0,21:39:30.8808500,6/11/2017,Deselect Superficies Afectadas,g_imagen_043.jpg
+0,21:39:30.9124357,6/11/2017,Select Superficies Afectadas,g_imagen_043.jpg
+0,21:39:31.4559868,6/11/2017,Move ray vector,g_imagen_043.jpg
+0,21:39:31.5032721,6/11/2017,Move ray vector,g_imagen_047.jpg
+0,21:39:32.2626622,6/11/2017,Select Maniobras de Mitigacion,g_imagen_043.jpg
+0,21:39:32.7902815,6/11/2017,Move ray vector,g_imagen_043.jpg
+0,21:39:33.0606195,6/11/2017,Zooming Out,g_imagen_043.jpg
+0,21:39:33.6160408,6/11/2017,Move ray vector,g_imagen_001.jpg
+0,21:39:34.4599817,6/11/2017,Zooming In,g_imagen_001.jpg
+0,21:39:35.7098003,6/11/2017,Select Superficies Afectadas,g_imagen_001.jpg
+0,21:39:37.3388375,6/11/2017,Zooming Out,g_imagen_001.jpg
+0,21:39:38.0636078,6/11/2017,Move ray vector,g_imagen_030.jpg
+0,21:39:38.1692052,6/11/2017,Move ray vector,g_imagen_020.jpg
+0,21:39:38.6682703,6/11/2017,Zooming In,g_imagen_020.jpg
+0,21:39:41.0297058,6/11/2017,Select Estructuras Comprometidas,g_imagen_020.jpg
+0,21:39:41.1859557,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:39:41.1934373,6/11/2017,Move ray vector,g_imagen_020.jpg
+0,21:39:41.8746582,6/11/2017,Zooming Out,g_imagen_020.jpg
+0,21:39:42.6211566,6/11/2017,Move ray vector,g_imagen_035.jpg
+0,21:39:42.6849833,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:39:49.8212981,6/11/2017,Move ray vector,g_imagen_037.jpg
+0,21:39:49.8769481,6/11/2017,Move ray vector,g_imagen_047.jpg
+0,21:39:49.9130441,6/11/2017,Move ray vector,g_imagen_043.jpg
+0,21:39:51.1414855,6/11/2017,Move ray vector,g_imagen_056.jpg
+0,21:39:51.1836073,6/11/2017,Move ray vector,g_imagen_047.jpg
+0,21:39:51.2424834,6/11/2017,Move ray vector,g_imagen_037.jpg
+0,21:39:51.6343828,6/11/2017,Move ray vector,g_imagen_001.jpg
+0,21:39:51.6894018,6/11/2017,Move ray vector,g_imagen_030.jpg
+0,21:53:48.0238528,6/11/2017,UserID,-
+0,21:53:48.0412915,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,21:53:50.0264674,6/11/2017,Move ray vector,
+0,21:54:07.3825814,6/11/2017,Test1,
+0,21:54:12.4242607,6/11/2017,Move ray vector,g_imagen_007.jpg
+0,21:54:12.4869269,6/11/2017,Move ray vector,g_imagen_008.jpg
+0,21:54:12.5345540,6/11/2017,Move ray vector,g_imagen_007.jpg
+0,21:54:12.5902015,6/11/2017,Move ray vector,g_imagen_003.jpg
+0,21:54:12.9931784,6/11/2017,Move ray vector,g_imagen_032.jpg
+0,21:54:13.2815746,6/11/2017,Zooming In,g_imagen_032.jpg
+0,21:54:14.1492530,6/11/2017,Move ray vector,g_imagen_011.jpg
+0,21:54:14.4403380,6/11/2017,Move ray vector,g_imagen_024.jpg
+0,21:54:14.4809459,6/11/2017,Move ray vector,g_imagen_031.jpg
+0,21:54:14.7180760,6/11/2017,Move ray vector,g_imagen_016.jpg
+0,21:54:14.8088168,6/11/2017,Move ray vector,g_imagen_008.jpg
+0,22:03:31.8125121,6/11/2017,UserID,-
+0,22:03:31.8275142,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,22:03:31.8977396,6/11/2017,Move ray vector,
+0,22:03:45.9594424,6/11/2017,Test1,
+0,22:03:47.6414364,6/11/2017,Move ray vector,g_imagen_047.jpg
+0,22:03:47.6840493,6/11/2017,Move ray vector,g_imagen_026.jpg
+0,22:03:48.5418082,6/11/2017,Move ray vector,g_imagen_003.jpg
+0,22:03:48.8085177,6/11/2017,Move ray vector,g_imagen_026.jpg
+0,22:03:49.4807095,6/11/2017,Move ray vector,g_imagen_034.jpg
+0,22:03:49.5794738,6/11/2017,Move ray vector,g_imagen_023.jpg
+0,22:03:49.7214931,6/11/2017,Move ray vector,g_imagen_007.jpg
+0,22:03:49.8217576,6/11/2017,Move ray vector,g_imagen_001.jpg
+0,22:03:49.8825934,6/11/2017,Move ray vector,g_imagen_044.jpg
+0,22:04:38.8047323,6/11/2017,UserID,-
+0,22:04:38.8212767,6/11/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,22:04:40.4852006,6/11/2017,Move ray vector,
+0,22:04:40.6837289,6/11/2017,Zooming In,
+0,22:04:56.9474402,6/11/2017,Test1,
+0,22:04:58.6229520,6/11/2017,Zooming Out,g_imagen_037.jpg
+0,20:23:36.5449740,6/28/2017,UserID,-
+0,20:23:36.5634773,6/28/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,20:23:36.8340342,6/28/2017,Move ray vector,
+0,20:41:45.7014717,6/28/2017,UserID,-
+0,20:41:45.7139724,6/28/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,20:41:45.9590052,6/28/2017,Move ray vector,
+0,20:44:11.2532701,6/28/2017,UserID,-
+0,20:44:11.2662718,6/28/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,20:44:11.5003549,6/28/2017,Move ray vector,
+0,20:48:36.0337859,6/28/2017,UserID,-
+0,20:48:36.0452752,6/28/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,20:48:36.2554710,6/28/2017,Move ray vector,
+0,20:53:40.1737135,6/28/2017,UserID,-
+0,20:53:40.1857352,6/28/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,21:07:15.8697367,6/28/2017,UserID,-
+0,21:07:15.8817374,6/28/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,21:11:03.5545036,6/28/2017,UserID,-
+0,21:11:03.5664985,6/28/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,21:11:04.4396256,6/28/2017,Test1,
+0,21:25:29.3228425,6/28/2017,UserID,-
+0,21:25:29.3353682,6/28/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,21:25:30.8207588,6/28/2017,Test1,
+0,21:30:09.3437200,6/28/2017,UserID,-
+0,21:30:09.3562215,6/28/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,21:30:10.8669222,6/28/2017,Test1,
+0,22:17:34.1149967,6/28/2017,UserID,-
+0,22:17:34.1269985,6/28/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,22:17:35.4301720,6/28/2017,Test1,
+0,22:24:25.7238019,6/28/2017,UserID,-
+0,22:24:25.7358032,6/28/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,22:24:27.0959828,6/28/2017,Test1,
+0,00:34:08.7212119,6/29/2017,UserID,-
+0,00:34:08.7337129,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:34:10.1058953,6/29/2017,Test1,
+0,00:35:08.8737526,6/29/2017,UserID,-
+0,00:35:08.8852535,6/29/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:35:12.5772433,6/29/2017,Test1,
+0,00:35:43.4535964,6/29/2017,UserID,-
+0,00:35:43.4651181,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:35:44.7749378,6/29/2017,Test1,
+0,00:46:55.6098914,6/29/2017,UserID,-
+0,00:46:55.6218930,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:46:56.9535704,6/29/2017,Test1,
+0,00:48:52.9031854,6/29/2017,UserID,-
+0,00:48:52.9076861,6/29/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:48:56.6068751,6/29/2017,Test1,
+0,20:36:08.1691580,6/29/2017,UserID,-
+0,20:36:08.2111634,6/29/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,20:36:11.6979033,6/29/2017,Test1,
+0,20:36:30.2559184,6/29/2017,UserID,-
+0,20:36:30.2594188,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,20:36:31.6486019,6/29/2017,Test1,
+0,20:36:56.5901840,6/29/2017,UserID,-
+0,20:36:56.6016790,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,20:36:58.0350316,6/29/2017,Test1,
+0,20:50:46.3406230,6/29/2017,UserID,-
+0,20:50:46.3521241,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,20:50:46.9482035,6/29/2017,Move ray vector,
+0,20:50:48.1214811,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:50:49.5466685,6/29/2017,Test1,
+0,20:50:49.8457077,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:50:50.4462878,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,20:50:50.9288514,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:50:51.5604650,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:50:52.9104554,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:50:54.9831618,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,20:50:55.2471966,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:50:57.2504611,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:50:57.5094971,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:50:58.7235319,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,20:51:00.8128083,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:51:01.8844494,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,20:51:04.6292289,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:51:06.1752365,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:07.5411463,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,20:51:08.3086741,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,20:51:16.3901711,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:51:17.6482062,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:18.6638402,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:51:20.3701351,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:21.5472222,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:51:22.9394593,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:23.3145090,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:51:41.5578495,6/29/2017,UserID,-
+0,20:51:41.5693514,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,20:51:43.1533816,6/29/2017,Move ray vector,
+0,20:51:44.2400242,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:44.8856091,6/29/2017,Test1,
+0,20:51:46.1178410,6/29/2017,Changing Plane,2
+0,20:51:46.3048658,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:51:46.6744145,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,20:51:47.4685425,6/29/2017,Move ray vector,g_imagen_017.jpg
+0,20:51:49.2572776,6/29/2017,Move ray vector,g_imagen_018.jpg
+0,20:51:49.5413150,6/29/2017,Move ray vector,g_imagen_017.jpg
+0,20:51:49.9533848,6/29/2017,Changing Plane,1
+0,20:51:51.2210365,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:52.8344607,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:51:53.2469813,6/29/2017,Ingresa a categoria ,Flora y Fauna
+0,20:51:54.5268781,6/29/2017,Sale de categoria ,Flora y Fauna
+0,20:51:54.6008882,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:51:55.9385649,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:51:56.4181280,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:52:01.0388815,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,20:52:01.4224322,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:52:02.1310256,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:52:04.4673673,6/29/2017,Ingresa a categoria ,Flora y Fauna
+0,20:52:05.3609860,6/29/2017,Sale de categoria ,Flora y Fauna
+0,20:52:05.4341963,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:54:27.7961543,6/29/2017,UserID,-
+0,20:54:27.8076380,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,20:54:29.4047026,6/29/2017,Move ray vector,
+0,20:54:30.2147388,6/29/2017,Move ray vector,
+0,20:54:30.5357813,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:54:31.0226863,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:54:32.0224374,6/29/2017,Test1,
+0,20:54:32.9603388,6/29/2017,Zooming In,g_imagen_005.jpg
+0,20:54:35.1756623,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:54:35.4426968,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:54:35.7402362,6/29/2017,Zooming Out,g_imagen_005.jpg
+0,20:54:36.5152201,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:54:36.8179096,6/29/2017,Zooming In,g_imagen_006.jpg
+0,20:54:38.3836057,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:54:39.2724572,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:54:40.6869035,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,20:54:41.1788603,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:54:41.6684254,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:54:41.9770482,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,20:54:42.4786136,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:54:43.2291698,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:54:43.7767438,6/29/2017,Zooming Out,g_imagen_006.jpg
+0,20:54:43.8712548,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:54:44.7257468,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:54:44.8827673,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:54:45.3711108,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,20:54:46.0416424,6/29/2017,Zooming In,g_imagen_003.jpg
+0,20:54:47.8782955,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,20:54:49.1114587,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:54:49.6325278,6/29/2017,Zooming Out,g_imagen_003.jpg
+0,20:54:50.2991156,6/29/2017,Zooming In,g_imagen_006.jpg
+0,20:54:51.7428542,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:54:51.8213637,6/29/2017,Zooming Out,g_imagen_006.jpg
+0,20:54:53.0019299,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:54:54.8365877,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,20:54:55.1056231,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:54:56.9721258,6/29/2017,Ingresa a categoria ,Estructuras Comprometidas
+0,20:54:58.0054969,6/29/2017,Sale de categoria ,Estructuras Comprometidas
+0,20:54:58.2290862,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:00.0700560,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:55:00.6046262,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:01.2037053,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:55:01.4742411,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,20:55:01.6527659,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:55:01.8042849,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,20:55:02.3368558,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,20:55:02.4958764,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:55:02.6473963,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,20:55:03.0124446,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,20:55:03.1609648,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,20:55:03.4174981,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:55:03.5935214,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:04.1941009,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:55:04.6166565,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:05.1039922,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:55:07.5243113,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:07.6908328,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:55:11.5427129,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:12.6435822,6/29/2017,Ingresa a categoria ,Estructuras Comprometidas
+0,20:55:13.4031642,6/29/2017,Sale de categoria ,Estructuras Comprometidas
+0,20:55:13.4768690,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:14.3718847,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:55:14.7954405,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:15.0614756,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:55:15.2229970,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,20:55:15.3730174,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:55:15.5275373,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,20:55:15.8000734,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:55:16.1774866,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,20:55:16.6845451,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,20:55:17.3218927,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,20:55:18.0344866,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,20:55:18.7738534,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,20:55:19.1514803,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,20:55:19.7527955,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,20:55:20.3573757,6/29/2017,Move ray vector,g_imagen_011.jpg
+0,20:55:21.0524680,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,20:55:21.5894435,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,20:55:22.1938545,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:22.5809975,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,20:55:23.1835755,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:23.5591252,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:55:24.3022634,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,20:55:29.3696064,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,20:55:29.9126392,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:00.8797197,6/29/2017,UserID,-
+0,22:31:00.8917159,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,22:31:02.4206360,6/29/2017,Move ray vector,
+0,22:31:03.1857629,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,22:31:03.2297653,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:31:03.2357654,6/29/2017,Test1,
+0,22:31:03.6029604,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:04.2243290,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:31:04.2523486,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:31:14.9474189,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:15.6880030,6/29/2017,Zooming In,g_imagen_005.jpg
+0,22:31:25.8518346,6/29/2017,Zooming Out,g_imagen_005.jpg
+0,22:31:25.8598363,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:31:26.0886808,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:26.7977520,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:31:27.0703732,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:31:27.3084295,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:28.5972377,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:31:29.5671258,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:29.9863700,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:31:30.2966216,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:31:30.7223743,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:32.3159006,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:31:32.3844119,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:31:32.9411493,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:33.6539238,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:31:33.9274219,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:31:34.1759350,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:31:34.2913183,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,22:31:34.4799361,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:31:34.6171257,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:34.7309385,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:31:34.7998991,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:31:34.9445346,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:31:35.1671192,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:31:43.2682580,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:43.7759404,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:31:44.3547997,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:46.6803424,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:31:47.2173059,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:53.3643678,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:31:53.5730068,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:31:53.5879969,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:33:57.9753055,6/29/2017,UserID,-
+0,22:33:57.9873070,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,22:33:59.6654272,6/29/2017,Move ray vector,
+0,22:33:59.8898361,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,22:33:59.9308390,6/29/2017,Move ray vector,
+0,22:34:00.0708617,6/29/2017,Move ray vector,
+0,22:34:00.1928752,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:00.4918813,6/29/2017,Test1,
+0,22:34:00.8154707,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:01.6915089,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:02.1159079,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,22:34:02.4739001,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:02.8653947,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:04.0833380,6/29/2017,Ingresa a categoria ,Estructuras Comprometidas
+0,22:34:05.1599501,6/29/2017,Sale de categoria ,Estructuras Comprometidas
+0,22:34:05.1639717,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:05.6702273,6/29/2017,Zooming In,g_imagen_005.jpg
+0,22:34:06.6990465,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:07.3852498,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:07.9207242,6/29/2017,Zooming Out,g_imagen_005.jpg
+0,22:34:08.4904734,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:08.9137775,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,22:34:10.4031390,6/29/2017,Zooming In,g_imagen_000.jpg
+0,22:34:11.3195491,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:12.2161070,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,22:34:12.2651102,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:34:12.4338507,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:12.5253971,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:12.5544418,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:34:12.6534550,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:12.7584337,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:12.9274578,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:12.9475112,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,22:34:13.0195311,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:13.1840013,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:13.2124271,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:13.2334297,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,22:34:13.2819363,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,22:34:13.3903054,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,22:34:13.4123194,6/29/2017,Move ray vector,g_imagen_011.jpg
+0,22:34:13.5388241,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,22:34:13.5458235,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,22:34:13.6337586,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,22:34:13.6762624,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,22:34:13.7183445,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:13.7748398,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:13.8098461,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:13.9456887,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:13.9811620,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:14.0826790,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:34:14.1277611,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,22:34:14.1727653,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:14.3413121,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:14.5102638,6/29/2017,Zooming Out,g_imagen_000.jpg
+0,22:34:14.9226287,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:14.9506230,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,22:34:15.0836797,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:15.1182242,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:34:15.2037894,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:15.2187382,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,22:34:15.2677933,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:34:15.3253422,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,22:34:15.3393441,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,22:34:15.4197665,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,22:34:15.4328141,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:15.5628270,6/29/2017,Move ray vector,g_imagen_002.jpg
+0,22:34:15.6848201,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:15.8491144,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,22:34:15.9331948,6/29/2017,Move ray vector,g_imagen_011.jpg
+0,22:34:16.0137146,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,22:34:16.1377425,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,22:34:16.2321173,6/29/2017,Move ray vector,g_imagen_011.jpg
+0,22:34:16.3592194,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,22:34:16.3812924,6/29/2017,Move ray vector,g_imagen_011.jpg
+0,22:34:16.4173011,6/29/2017,Move ray vector,g_imagen_007.jpg
+0,22:34:16.5413048,6/29/2017,Move ray vector,g_imagen_003.jpg
+0,22:34:16.6457856,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:34:16.6763251,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,22:34:16.6986415,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:16.8026568,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:16.9715229,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:16.9947730,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:34:17.0438227,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:17.0807826,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:17.1318360,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:34:17.3428879,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:18.5302976,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:18.7342270,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:18.8549970,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:18.9688463,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:19.0681639,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,22:34:19.1596772,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,22:34:19.2282466,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,22:34:19.2762497,6/29/2017,Move ray vector,g_imagen_010.jpg
+0,22:34:19.3627639,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,22:34:19.4198267,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,22:34:19.4788345,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,22:34:19.5318418,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,22:34:20.7393672,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,23:10:26.1611819,6/29/2017,UserID,-
+0,23:10:26.1722039,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,23:10:27.9846294,6/29/2017,Move ray vector,
+0,23:10:28.6867524,6/29/2017,Test1,
+0,23:10:29.4792898,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,23:10:30.2730184,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,23:10:30.3167456,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,23:10:30.3739485,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,23:10:32.9613726,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,23:10:33.7162996,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,23:10:34.0954409,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,23:10:35.1493202,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,23:10:35.2517701,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,23:10:35.3010425,6/29/2017,Move ray vector,g_imagen_008.jpg
+0,23:10:35.9947725,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,23:10:36.0314516,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,23:10:39.1249772,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,23:10:39.3940549,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,23:10:39.6628469,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,23:10:40.6738381,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,23:10:44.1702680,6/29/2017,Move ray vector,g_imagen_009.jpg
+0,23:10:50.5759382,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,23:10:51.1697156,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,23:10:51.5390216,6/29/2017,Move ray vector,g_imagen_000.jpg
+0,23:10:52.2013730,6/29/2017,Move ray vector,g_imagen_004.jpg
+0,23:10:53.4789823,6/29/2017,Move ray vector,g_imagen_001.jpg
+0,23:12:20.5764749,6/29/2017,UserID,-
+0,23:12:20.5879589,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,23:12:21.4052063,6/29/2017,Move ray vector,
+0,23:12:22.1244584,6/29/2017,Test1,
+0,23:12:23.1649204,6/29/2017,Move ray vector,g_imagen_006.jpg
+0,23:12:23.2086512,6/29/2017,Move ray vector,g_imagen_005.jpg
+0,23:12:23.8872830,6/29/2017,Zooming In,g_imagen_005.jpg
+0,23:12:50.9282505,6/29/2017,UserID,-
+0,23:12:50.9326342,6/29/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,23:12:54.8940065,6/29/2017,Test1,
+0,23:20:18.6856903,6/29/2017,UserID,-
+0,23:20:18.6971942,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,23:20:21.2224586,6/29/2017,Test1,
+0,23:20:45.7411252,6/29/2017,UserID,-
+0,23:20:45.7447371,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,23:20:48.2826982,6/29/2017,Test1,
+0,23:21:34.2609827,6/29/2017,UserID,-
+0,23:21:34.2646676,6/29/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,23:21:36.7203421,6/29/2017,Test1,
+0,23:22:23.8267096,6/29/2017,UserID,-
+0,23:22:23.8306481,6/29/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,23:22:27.5925447,6/29/2017,Test1,
+0,23:23:21.6358096,6/29/2017,UserID,-
+0,23:23:21.6393114,6/29/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,23:23:24.8158983,6/29/2017,Test1,
+0,00:21:18.8547360,6/30/2017,UserID,-
+0,00:21:18.8662409,6/30/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:21:21.8943721,6/30/2017,Test1,
+0,00:27:08.2317208,6/30/2017,UserID,-
+0,00:27:08.2431980,6/30/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:27:11.6710817,6/30/2017,Test1,
+0,00:30:36.5829096,6/30/2017,UserID,-
+0,00:30:36.5949107,6/30/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:30:41.0498240,6/30/2017,Test1,
+0,00:31:19.0018950,6/30/2017,UserID,-
+0,00:31:19.0054750,6/30/2017,TEST,Use Vortices: True -- UseBgiies: False -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:31:23.5894667,6/30/2017,Test1,
+0,00:32:08.5484423,6/30/2017,UserID,-
+0,00:32:08.5519415,6/30/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:32:11.0146363,6/30/2017,Test1,
+0,00:39:37.7348327,6/30/2017,UserID,-
+0,00:39:37.7467815,6/30/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,00:39:40.3087445,6/30/2017,Test1,
+0,11:01:31.3615366,6/30/2017,UserID,-
+0,11:01:31.4229654,6/30/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: False -- Use Kinect: False
+0,11:01:34.3437822,6/30/2017,Test1,
+0,22:48:34.9965667,7/25/2017,UserID,-
+0,22:48:35.0096013,7/25/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,22:48:36.1596576,7/25/2017,Move ray vector,
+0,22:48:36.5446818,7/25/2017,Move ray vector,photo007.jpg
+0,22:48:37.0239791,7/25/2017,Test1,
+0,22:48:38.8730669,7/25/2017,Move ray vector,photo006.jpg
+0,22:48:38.9402762,7/25/2017,Move ray vector,photo005.jpg
+0,22:48:39.0467234,7/25/2017,Move ray vector,photo001.jpg
+0,22:48:39.6742543,7/25/2017,Zooming In,photo001.jpg
+0,22:48:40.8579101,7/25/2017,Select Flora y Fauna,photo001.jpg
+0,22:48:42.1408950,7/25/2017,Select Estructuras Comprometidas,photo001.jpg
+0,22:48:43.6261007,7/25/2017,Select Superficies Afectadas,photo001.jpg
+0,22:48:44.8691365,7/25/2017,Select Maniobras de Mitigacion,photo001.jpg
+0,22:48:45.8701716,7/25/2017,Zooming Out,photo001.jpg
+0,22:48:46.3743939,7/25/2017,Move ray vector,photo002.jpg
+0,22:48:46.8483651,7/25/2017,Zooming In,photo002.jpg
+0,22:48:48.0110946,7/25/2017,Select Flora y Fauna,photo002.jpg
+0,22:48:49.2038435,7/25/2017,Select Estructuras Comprometidas,photo002.jpg
+0,22:48:50.4212273,7/25/2017,Select Maniobras de Mitigacion,photo002.jpg
+0,22:48:51.6293127,7/25/2017,Select Superficies Afectadas,photo002.jpg
+0,22:48:52.4797283,7/25/2017,Zooming Out,photo002.jpg
+0,22:48:53.0169195,7/25/2017,Move ray vector,photo003.jpg
+0,22:48:53.1159734,7/25/2017,Move ray vector,photo007.jpg
+0,22:48:53.5123017,7/25/2017,Move ray vector,photo011.jpg
+0,22:48:54.4191396,7/25/2017,Changing Plane,2
+0,22:48:55.8818516,7/25/2017,Move ray vector,photo018.jpg
+0,22:48:55.9738821,7/25/2017,Move ray vector,photo013.jpg
+0,22:48:56.1991395,7/25/2017,Move ray vector,photo014.jpg
+0,22:48:57.2700100,7/25/2017,Changing Plane,1
+0,22:48:57.3391560,7/25/2017,Ingresa a categoria ,Flora y Fauna
+0,22:48:58.8960911,7/25/2017,Sale de categoria ,Flora y Fauna
+0,22:49:00.0377433,7/25/2017,Move ray vector,photo002.jpg
+0,22:49:00.2111016,7/25/2017,Move ray vector,photo003.jpg
+0,22:49:00.2451900,7/25/2017,Move ray vector,photo007.jpg
+0,22:49:00.3518919,7/25/2017,Move ray vector,photo011.jpg
+0,22:49:01.6358735,7/25/2017,Zooming In,photo011.jpg
+0,22:49:02.5497446,7/25/2017,Select Maniobras de Mitigacion,photo011.jpg
+0,22:49:03.1471064,7/25/2017,Zooming Out,photo011.jpg
+0,22:49:04.3718706,7/25/2017,Ingresa a categoria ,Maniobras de Mitigacion
+0,22:49:04.9662576,7/25/2017,Sale de categoria ,Maniobras de Mitigacion
+0,22:49:05.5737723,7/25/2017,Move ray vector,photo007.jpg
+0,22:49:05.6486897,7/25/2017,Move ray vector,photo003.jpg
+0,22:49:06.9913788,7/25/2017,Ingresa a categoria ,Maniobras de Mitigacion
+0,22:49:07.6571262,7/25/2017,Sale de categoria ,Maniobras de Mitigacion
+0,22:49:08.0134643,7/25/2017,Move ray vector,photo007.jpg
+0,22:49:08.0630574,7/25/2017,Move ray vector,photo003.jpg
+0,22:49:08.1062288,7/25/2017,Move ray vector,photo002.jpg
+0,00:27:24.5701610,7/27/2017,UserID,-
+0,00:27:24.5827015,7/27/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,00:27:25.3545654,7/27/2017,Test1,
+0,00:27:26.5382856,7/27/2017,Move ray vector,photo011.jpg
+0,00:27:26.6376536,7/27/2017,Move ray vector,photo010.jpg
+0,00:27:26.7044413,7/27/2017,Move ray vector,photo006.jpg
+0,00:27:27.1372572,7/27/2017,Move ray vector,photo005.jpg
+0,00:27:27.2706475,7/27/2017,Move ray vector,photo000.jpg
+0,00:27:27.8716218,7/27/2017,Zooming In,photo000.jpg
+0,00:27:29.4967275,7/27/2017,Select Estructuras Comprometidas,photo000.jpg
+0,00:27:30.7101663,7/27/2017,Select Superficies Afectadas,photo000.jpg
+0,00:27:31.8945107,7/27/2017,Select Maniobras de Mitigacion,photo000.jpg
+0,00:27:33.3576929,7/27/2017,Select Flora y Fauna,photo000.jpg
+0,00:27:35.5648422,7/27/2017,Zooming Out,photo000.jpg
+0,00:27:36.2453504,7/27/2017,Move ray vector,photo001.jpg
+0,00:38:39.6679771,7/27/2017,UserID,-
+0,00:38:39.6790043,7/27/2017,TEST,Use Vortices: False -- UseBgiies: True -- Use LeapMotion: False-- Use Pitch Grab: False -- Use OpenGlove: False -- Use Joystick: False -- Use Mouse: True -- Use Kinect: False
+0,00:38:40.5690717,7/27/2017,Test1,
+0,00:38:41.4821880,7/27/2017,Move ray vector,photo011.jpg
+0,00:38:41.5477213,7/27/2017,Move ray vector,photo010.jpg
+0,00:38:41.6975161,7/27/2017,Move ray vector,photo006.jpg
+0,00:38:42.4977626,7/27/2017,Move ray vector,photo005.jpg
+0,00:38:42.5803067,7/27/2017,Move ray vector,photo001.jpg
+0,00:38:43.1317221,7/27/2017,Zooming In,photo001.jpg
